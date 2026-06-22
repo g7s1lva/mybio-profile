@@ -1,15 +1,14 @@
-# BadassIntro
+# From @g7s1lva
 
-A stylish landing page with animated background, audio, clickable intro screen, and glitch effects.  
-Perfect for creating a strong first impression.
+Uma landing page estilosa com fundo animado, áudio, tela de introdução clicável e efeitos de glitch.  
+Perfeita para causar uma forte primeira impressão.
 
-Live demo: [https://great.thug4ff.com/](https://great.thug4ff.com/)
+Site demo: [https://g7s1lva.xyz/](https://g7s1lva.xyz/)
 
-## Features
+## Recursos
 
-- Immersive video background  
-- Looping background audio with toggle  
-- Click-to-enter intro animation  
-- Social links with animated icons  
-- Responsive and mobile-friendly
-
+- Fundo de vídeo imersivo  
+- Áudio de fundo em loop com opção de ativar/desativar  
+- Animação de introdução com clique para entrar  
+- Links para redes sociais com ícones animados  
+- Design responsivo e otimizado para dispositivos móveis
